@@ -1,0 +1,2 @@
+total_demand,total_shipped,total_unmet,fill_rate,stockout_weeks_total,avg_on_hand,orders_placed_total,holding_cost,ordering_cost,stockout_cost,total_cost,scenario
+0.0,0.0,0.0,0.0,0,0.0,7953,0.0,397650.0,0.0,397650.0,lead_time_up_50pct

@@ -1,0 +1,12 @@
+pandas
+numpy
+pyarrow
+scipy
+statsmodels
+scikit-learn
+matplotlib
+plotly
+jupyter
+ipykernel
+python-dateutil
+tqdm

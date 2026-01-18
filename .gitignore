@@ -1,0 +1,14 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Raw / temp data
+data/raw/
+reports/scenarios/tmp_*.csv
+
+# Editor / OS
+.vscode/
+.DS_Store
